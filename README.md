@@ -14,7 +14,6 @@ to run the app
 ```
 yarn run start
 ```
-
+the background photo is by: Fabrizio Verrecchia on Unsplash
 ### MIT License
 Copyright (c) 2018 Hamid Belahrach
-the background photo is by: Fabrizio Verrecchia on Unsplash
