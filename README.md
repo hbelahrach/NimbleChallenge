@@ -15,10 +15,6 @@ to run the app
 yarn run start
 ```
 
-to build the app
-```
-docker-compose build
-```
-
 ### MIT License
 Copyright (c) 2018 Hamid Belahrach
+the background photo is by: Fabrizio Verrecchia on Unsplash
