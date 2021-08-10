@@ -1,13 +1,18 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { MuiThemeProvider } from "material-ui/styles";
-import "./assets/styles/style.css";
-import App from "./app/App";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-	<MuiThemeProvider>
-		<App />
-		<div className="overlay" />
-	</MuiThemeProvider>,
-	document.getElementById("root")
+    <>
+      <App />
+      <div className="overlay" />
+    </>,
+  document.getElementById('root')
 );
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
