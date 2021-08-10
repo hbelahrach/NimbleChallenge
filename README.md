@@ -1,6 +1,6 @@
 # NimbleChallenge
 
-![preview](https://rawgit.com/hbelahrach/NimbleChallenge/master/src/assets/images/projectGif.gif)
+![preview](https://rawgit.com/hbelahrach/NimbleChallenge/master/src/assets/projectGif.gif)
 
 Project for NimbleWays challenge
 the project is built with react and material-ui
